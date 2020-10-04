@@ -1,1 +1,3 @@
-I am Gosha. It is my first git file.
+I am not Gosha, i am Mike actually. It is my first git file.
+
+
